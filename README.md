@@ -53,7 +53,7 @@ STM32 microcontroller"
 >#### VBA
 
 ### Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/gif_kanban.gif">
 
 
 
