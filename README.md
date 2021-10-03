@@ -39,7 +39,6 @@ me.say_hi()
   - [Diploma thesis](https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller.git): "Implementation of the HMI panel on a discovery kit containing a
 STM32 microcontroller"
 
-More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
 <!-- - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines -->
@@ -52,6 +51,9 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 * [SQL Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/55c117fcd5704f42d03942b7d0109beca5348a43)  
 * [SQL for Database Administrators](https://www.datacamp.com/statement-of-accomplishment/track/8e2fd6411a84cd00bb99d45fa81bb6f14f2ec1f1)
 >#### VBA
+
+### Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
 
 
