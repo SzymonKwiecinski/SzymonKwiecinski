@@ -4,9 +4,6 @@
 
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 
 class DataEngineer:
 
@@ -49,11 +46,12 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 <!-- - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch-->
 
 ### Certifications 📜
-#### PYTHON
-<!-- - [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) @ Coursera -->
-#### SQL
-<!-- - [Introduction to Linux](https://stepik.org/cert/144831) @ Stepik -->
-#### VBA
+>#### PYTHON
+* [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/51bf72906c9f25e72b16b2bbfdf0b177d00d31ae)
+>#### SQL
+* [SQL Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/55c117fcd5704f42d03942b7d0109beca5348a43)  
+* [SQL for Database Administrators](https://www.datacamp.com/statement-of-accomplishment/track/8e2fd6411a84cd00bb99d45fa81bb6f14f2ec1f1)
+>#### VBA
 
 
 
