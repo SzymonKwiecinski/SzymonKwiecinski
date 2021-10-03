@@ -53,10 +53,9 @@ STM32 microcontroller"
 >#### VBA
 
 ### Examples of Work
-<img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/gif_kanban.gif">
-<img src="https://github.com/SzymonKwiecinski/gif_kanban.gif">
-![git](https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif)
+<img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif" width="512" ><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/inzynierka.gif" width="512" >
 
+<!--  height="40" -->
 
 
 
