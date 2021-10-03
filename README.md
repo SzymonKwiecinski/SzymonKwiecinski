@@ -54,8 +54,8 @@ STM32 microcontroller"
 
 ### Examples of Work
 <img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/gif_kanban.gif">
-
-
+<img src="https://github.com/SzymonKwiecinski/gif_kanban.gif">
+![git](https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif)
 
 
 
