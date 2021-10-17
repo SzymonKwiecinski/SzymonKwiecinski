@@ -41,8 +41,8 @@ STM32 microcontroller"
 
 
 ### Projects 🐾
-<!-- - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines -->
-<!-- - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch-->
+* [Data Science projects](https://github.com/SzymonKwiecinski/DataCamp-projects)
+
 
 ### Certifications 📜
 >#### PYTHON
