@@ -22,8 +22,9 @@ me.say_hi()
 
 ### Skills 🛠️
 - **Languages**:  &nbsp;       Python, SQL, VBA, C/C++
-<!-- - **DS/ML/DL**: &nbsp;   Pandas -->
-- **RDBMS**:   &nbsp;    PostgreSQL
+- **DataScience lib**:   &nbsp;    Pandas
+- **RDBMS**:   &nbsp;    PostgreSQL, MSSQL
+- **Tools**:   &nbsp;    Jupyter Notebook, Visual Studio Code, MSSMS, GitHub
 
 
 ### Work experience 👔
