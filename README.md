@@ -51,6 +51,7 @@ STM32 microcontroller"
 * [SQL Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/55c117fcd5704f42d03942b7d0109beca5348a43)  
 * [SQL for Database Administrators](https://www.datacamp.com/statement-of-accomplishment/track/8e2fd6411a84cd00bb99d45fa81bb6f14f2ec1f1)
 >#### VBA
+* [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing)
 
 ### Examples of Work
 <img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif" width="400" height="256" ><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/inzynierka.gif" width="400" height="256" >
