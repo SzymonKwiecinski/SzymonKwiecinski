@@ -46,12 +46,14 @@ STM32 microcontroller"
 
 ### Certifications 📜
 >#### PYTHON
-* [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/51bf72906c9f25e72b16b2bbfdf0b177d00d31ae)
+* [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp)
 >#### SQL
-* [SQL Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/55c117fcd5704f42d03942b7d0109beca5348a43)  
-* [SQL for Database Administrators](https://www.datacamp.com/statement-of-accomplishment/track/8e2fd6411a84cd00bb99d45fa81bb6f14f2ec1f1)
+* [SQL Fundamentals](https://drive.google.com/file/d/1mEHsU6r55jVQ7DTy9-cJw1yC8RxSbJkY/view?usp=sharing) (DataCamp)
+* [SQL for Database Administrators](https://drive.google.com/file/d/1ZC7J_i3E-IlmhJdLRooaTWlPCZXuEQ1E/view?usp=sharing) (DataCamp)
 >#### VBA
-* [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing)
+* [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn)
+>#### English
+* [First Certificate in English (FCE)]() (Cambridge Assessment English)
 
 ### Examples of Work
 <img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif" width="400" height="256" ><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/inzynierka.gif" width="400" height="256" >
