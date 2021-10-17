@@ -21,10 +21,10 @@ me.say_hi()
 ```
 
 ### Skills 🛠️
-- **Languages**:  &nbsp;       Python, SQL, VBA, C/C++
-- **DataScience lib**:   &nbsp;    Pandas
-- **RDBMS**:   &nbsp;    PostgreSQL, MSSQL
-- **Tools**:   &nbsp;    Jupyter Notebook, Visual Studio Code, MSSMS, GitHub
+- **Languages**&nbsp; &nbsp; &nbsp;Python,  SQL,  VBA,  C/C++
+- **DataScience**:&nbsp; Pandas
+- **RDBMS**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL,  MSSQL
+- **Tools**&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Jupyter Notebook,  Visual Studio Code,  MSSMS,  GitHub
 
 
 ### Work experience 👔
