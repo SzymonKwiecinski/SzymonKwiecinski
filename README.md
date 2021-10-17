@@ -53,7 +53,7 @@ STM32 microcontroller"
 >#### VBA
 * [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn)
 >#### English
-* [First Certificate in English (FCE)]() (Cambridge Assessment English)
+* [First Certificate in English (FCE)](https://drive.google.com/file/d/1z4bJJn82WaT5bRSoHHGlwwrR78JEoyqz/view?usp=sharing) (Cambridge Assessment English)
 
 ### Examples of Work
 <img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif" width="400" height="256" ><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/inzynierka.gif" width="400" height="256" >
