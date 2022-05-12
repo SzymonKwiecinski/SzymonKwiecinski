@@ -31,12 +31,14 @@ me.say_hi()
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **IT Specialist**         | **[AREX Kielce](https://arex-sruby.pl/o-firmie/)**    | **Software engineering, Date analyst**        | **01.03.2020 — until now**    |
+| **Data engineer**     | **Accenture** |  **ELT, Python, SQL, Big data, Data visualizsation**         | **01.03.2022 - 01.03.2023** |
+| IT Specialist    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | software engineering, Date analyst        | 01.03.2020 — 28.02.2022    |
 | Scada/HMI intern      | [ASTOR](https://www.astor.com.pl/o-nas/o-nas/kim-jestesmy.html)          | Automatic control, HMI, SQL, problem solving        | 01.08.2019 — 01.09.2019    |
 
 
 
 ### Education 🎓
+- **Master's degree** in Informatics at Warsaw University of Technology (2022 - 2024)
 - **Engineer's degree** in Automatic Control and Robotics at AGH University of Science and Technology (2016 - 2019)
   - [Diploma thesis](https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller.git): "Implementation of the HMI panel on a discovery kit containing a
 STM32 microcontroller"
