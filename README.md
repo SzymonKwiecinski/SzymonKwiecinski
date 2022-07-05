@@ -48,7 +48,7 @@ STM32 microcontroller"
 * Data Science
   * [Projects from DataCamp platform](https://github.com/SzymonKwiecinski/DataCamp-projects)
 * Software engineering
-  * [Weight calc - CI/CD example](https://github.com/SzymonKwiecinski/Weight_calculator) <- __I'm working on it at the moment__
+  * [Weight calc - CI/CD example](https://github.com/SzymonKwiecinski/Weight_calculator)
 
 
 ### Certifications && Paths && Books 📜
