@@ -51,17 +51,20 @@ STM32 microcontroller"
   * [Weight calc - CI/CD example](https://github.com/SzymonKwiecinski/Weight_calculator) <- __I'm working on it at the moment__
 
 
-### Certifications 📜
+### Certifications && Paths && Books 📜
 >#### PYTHON
 * [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp)
 * [Data Scientist with Python Track](https://drive.google.com/file/d/10HJOlbVyDMhfggqfDFbM0I_We_QAXW3q/view?usp=sharing) (DataCamp)
 >#### SQL
+* [Practical SQL](https://www.practicalsql.com/) (book) - 2022-07-05
 * [SQL Fundamentals](https://drive.google.com/file/d/1mEHsU6r55jVQ7DTy9-cJw1yC8RxSbJkY/view?usp=sharing) (DataCamp)
 * [SQL for Database Administrators](https://drive.google.com/file/d/1ZC7J_i3E-IlmhJdLRooaTWlPCZXuEQ1E/view?usp=sharing) (DataCamp)
 >#### VBA
 * [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn)
 >#### English
 * [First Certificate in English (FCE)](https://drive.google.com/file/d/1z4bJJn82WaT5bRSoHHGlwwrR78JEoyqz/view?usp=sharing) (Cambridge Assessment English)
+>#### Git && Linux
+* [Git. Rozproszony system kontroli wersji Autor:Gajda Włodzimierz](https://lubimyczytac.pl/ksiazka/173249/git-rozproszony-system-kontroli-wersji) (book)
 
 ### Visual examples of my works :)
 <a href="https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif" width="400" height="256" ></a><a href="https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/inzynierka.gif" width="400" height="256" ></a>
