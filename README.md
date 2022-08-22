@@ -55,6 +55,7 @@ STM32 microcontroller"
 >#### PYTHON
 * [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp)
 * [Data Scientist with Python Track](https://drive.google.com/file/d/10HJOlbVyDMhfggqfDFbM0I_We_QAXW3q/view?usp=sharing) (DataCamp)
+* Head First Python (book) - 2021
 >#### SQL
 * [Practical SQL](https://www.practicalsql.com/) (book) - 2022-07-05
 * [SQL Fundamentals](https://drive.google.com/file/d/1mEHsU6r55jVQ7DTy9-cJw1yC8RxSbJkY/view?usp=sharing) (DataCamp)
