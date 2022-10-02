@@ -65,7 +65,9 @@ STM32 microcontroller"
 >#### English
 * [First Certificate in English (FCE)](https://drive.google.com/file/d/1z4bJJn82WaT5bRSoHHGlwwrR78JEoyqz/view?usp=sharing) (Cambridge Assessment English)
 >#### Git && Linux
+* [Linux Foundation Certified System Administrator (LFCS)](https://drive.google.com/file/d/1kfxBZ49QVTPOy_3LhpnaiRGOj9X_jk34/view?usp=sharing) ([KodeKloud](https://kodekloud.com/)) - 2022-10-02
 * [Git. Rozproszony system kontroli wersji Autor:Gajda Włodzimierz](https://lubimyczytac.pl/ksiazka/173249/git-rozproszony-system-kontroli-wersji) (book)
+
 
 ### Visual examples of my works :)
 <a href="https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif" width="400" height="256" ></a><a href="https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/inzynierka.gif" width="400" height="256" ></a>
