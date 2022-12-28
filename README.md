@@ -28,7 +28,8 @@ me.say_hi()
 - **Languages**&nbsp;&nbsp; &nbsp; &nbsp;Python,  JINJA, SQL, PRESTO
 - **Python Lib**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest
 - **Data**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL,  SQL Server, Hive
-- **Tools**&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Jupyter Notebook,  Visual Studio Code,  Azure Data Studio,  GitHub
+- **ETL tools**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dataswarm(similar to Airflow)
+- **Other tools**&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Jupyter Notebook,  Visual Studio Code,  Azure Data Studio,  GitHub
 
 
 ### Work experience 👔
