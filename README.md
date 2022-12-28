@@ -53,20 +53,20 @@ STM32 microcontroller"
 
 ### Certifications && Paths && Books 📜
 >#### PYTHON
-* [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp)
-* [Data Scientist with Python Track](https://drive.google.com/file/d/10HJOlbVyDMhfggqfDFbM0I_We_QAXW3q/view?usp=sharing) (DataCamp)
+* [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp) - 2021
+* [Data Scientist with Python Track](https://drive.google.com/file/d/10HJOlbVyDMhfggqfDFbM0I_We_QAXW3q/view?usp=sharing) (DataCamp) - 2022
 * Head First Python (book) - 2021
 >#### SQL
 * [Practical SQL](https://www.practicalsql.com/) (book) - 2022-07-05
-* [SQL Fundamentals](https://drive.google.com/file/d/1mEHsU6r55jVQ7DTy9-cJw1yC8RxSbJkY/view?usp=sharing) (DataCamp)
-* [SQL for Database Administrators](https://drive.google.com/file/d/1ZC7J_i3E-IlmhJdLRooaTWlPCZXuEQ1E/view?usp=sharing) (DataCamp)
+* [SQL Fundamentals](https://drive.google.com/file/d/1mEHsU6r55jVQ7DTy9-cJw1yC8RxSbJkY/view?usp=sharing) (DataCamp) - 2021
+* [SQL for Database Administrators](https://drive.google.com/file/d/1ZC7J_i3E-IlmhJdLRooaTWlPCZXuEQ1E/view?usp=sharing) (DataCamp) - 2021
 >#### VBA
-* [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn)
+* [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn) - 2021
 >#### English
-* [First Certificate in English (FCE)](https://drive.google.com/file/d/1z4bJJn82WaT5bRSoHHGlwwrR78JEoyqz/view?usp=sharing) (Cambridge Assessment English)
+* [First Certificate in English (FCE)](https://drive.google.com/file/d/1z4bJJn82WaT5bRSoHHGlwwrR78JEoyqz/view?usp=sharing) (Cambridge Assessment English) - 2021
 >#### Git && Linux
 * [Linux Foundation Certified System Administrator (LFCS)](https://drive.google.com/file/d/1kfxBZ49QVTPOy_3LhpnaiRGOj9X_jk34/view?usp=sharing) ([KodeKloud](https://kodekloud.com/)) - 2022-10-02
-* [Git. Rozproszony system kontroli wersji Autor:Gajda Włodzimierz](https://lubimyczytac.pl/ksiazka/173249/git-rozproszony-system-kontroli-wersji) (book)
+* [Git. Rozproszony system kontroli wersji Autor:Gajda Włodzimierz](https://lubimyczytac.pl/ksiazka/173249/git-rozproszony-system-kontroli-wersji) (book) - 2021
 
 
 ### Visual examples of my works :)
