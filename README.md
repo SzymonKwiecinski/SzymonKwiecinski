@@ -73,7 +73,7 @@ STM32 microcontroller"
 * [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn) - 2021
 
 ### Visual examples of my works :)
-<a href="https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif" width="400" height="256" ></a><a href="https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/inzynierka.gif" width="400" height="256" ></a>
+<a href="https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/resources/gif_kanban.gif" width="400" height="256" ></a><a href="https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/resources/inzynierka.gif" width="400" height="256" ></a>
 
 <!--  height="40" -->
 
