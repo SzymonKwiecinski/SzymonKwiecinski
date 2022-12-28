@@ -53,10 +53,8 @@ STM32 microcontroller"
   * [Projects from DataCamp platform](https://github.com/SzymonKwiecinski/DataCamp-projects)
 * Python projects for AREX company 
   * [Weight calculator](https://github.com/SzymonKwiecinski/Weight_calculator) (Python, GUI, unit tests, automating, sql, OOP, CI - Git Actions)
-  * [Automatic Improvement of inventory levels](https://github.com/SzymonKwiecinski/Application-for-the-automatic-improvement-of-inventory-levels)
-   *  Python, GUI, SQL Server, SQLite, OOP
-  * [XML files exporter to GCP](https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file)
-   *  Python, GUI, SQL Server, GCP VM, OOP, XML, SSH Autentication
+  * [Automatic Improvement of inventory levels](https://github.com/SzymonKwiecinski/Application-for-the-automatic-improvement-of-inventory-levels) (Python, GUI, SQL Server, SQLite, OOP)
+  * [XML files exporter to GCP](https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file) (Python, GUI, SQL Server, GCP VM, OOP, XML, SSH Auth)
 
 
 
