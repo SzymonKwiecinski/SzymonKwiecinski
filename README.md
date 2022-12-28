@@ -26,7 +26,7 @@ me.say_hi()
 
 ### Skills 🛠️
 - **Languages**&nbsp;&nbsp; &nbsp; &nbsp;Python,  SQL,  JINJA
-- **Python Librares**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest
+- **Python Lib**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest
 - **RDBMS**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL,  SQL Server
 - **Tools**&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Jupyter Notebook,  Visual Studio Code,  Azure Data Studio,  GitHub
 
