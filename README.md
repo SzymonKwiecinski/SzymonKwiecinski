@@ -5,23 +5,27 @@
 
 ```python
 
-class DataEngineer:
+class PythonEngineer:
 
     def __init__(self):
         self.name = "Szymon Kwieciński"
-        self.role = "Data Engineer"
+        self.roles =
+          [
+              "Junior Python Developer",
+              "Junior Data Engineer"
+          ]
         self.language_spoken = ["pl_PL", "en_UK"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = DataEngineer()
+me = PythonEngineer()
 me.say_hi()
 ```
 
 ### Skills 🛠️
-- **Languages**&nbsp;&nbsp; &nbsp; &nbsp;Python,  SQL,  VBA
+- **Languages**&nbsp;&nbsp; &nbsp; &nbsp;Python,  SQL,  JINJA
 - **Librares**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest
 - **Approach**:&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;CI/CD
 - **RDBMS**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL,  MSSQL, SQLite
@@ -60,14 +64,13 @@ STM32 microcontroller"
 * [Practical SQL](https://www.practicalsql.com/) (book) - 2022-07-05
 * [SQL Fundamentals](https://drive.google.com/file/d/1mEHsU6r55jVQ7DTy9-cJw1yC8RxSbJkY/view?usp=sharing) (DataCamp) - 2021
 * [SQL for Database Administrators](https://drive.google.com/file/d/1ZC7J_i3E-IlmhJdLRooaTWlPCZXuEQ1E/view?usp=sharing) (DataCamp) - 2021
->#### VBA
-* [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn) - 2021
 >#### English
 * [First Certificate in English (FCE)](https://drive.google.com/file/d/1z4bJJn82WaT5bRSoHHGlwwrR78JEoyqz/view?usp=sharing) (Cambridge Assessment English) - 2021
 >#### Git && Linux
 * [Linux Foundation Certified System Administrator (LFCS)](https://drive.google.com/file/d/1kfxBZ49QVTPOy_3LhpnaiRGOj9X_jk34/view?usp=sharing) ([KodeKloud](https://kodekloud.com/)) - 2022-10-02
 * [Git. Rozproszony system kontroli wersji Autor:Gajda Włodzimierz](https://lubimyczytac.pl/ksiazka/173249/git-rozproszony-system-kontroli-wersji) (book) - 2021
-
+>#### Other
+* [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn) - 2021
 
 ### Visual examples of my works :)
 <a href="https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/gif_kanban.gif" width="400" height="256" ></a><a href="https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller"><img src="https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/inzynierka.gif" width="400" height="256" ></a>
