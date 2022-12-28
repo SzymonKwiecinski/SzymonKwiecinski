@@ -26,17 +26,17 @@ me.say_hi()
 
 ### Skills 🛠️
 - **Languages**&nbsp;&nbsp; &nbsp; &nbsp;Python,  SQL,  JINJA
-- **Librares**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest
-- **Approach**:&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;CI/CD
-- **RDBMS**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL,  MSSQL, SQLite
-- **Tools**&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Jupyter Notebook,  Visual Studio Code,  MSSMS,  GitHub
+- **Python Librares**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest
+- **RDBMS**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL,  SQL Server
+- **Tools**&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Jupyter Notebook,  Visual Studio Code,  Azure Data Studio,  GitHub
 
 
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Data engineer**     | **Accenture** |  **ELT, Python, SQL, Big data, Data visualizsation**         | **01.03.2022 - 01.03.2023** |
-| IT Specialist    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | software engineering, Date analyst        | 01.03.2020 — 28.02.2022    |
+| **Data engineer**     | **Accenture** |  **ETL, Python, SQL, Big data, Data visualizsation**         | **01.03.2022 - 01.03.2023** |
+| Junior Python Developer    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | software engineering, Date analyst        | 29.02.2021 — 28.02.2022    |
+| IT Specialist    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | maintenance of IT infrastructure        | 01.03.2020 — 28.02.2021    |
 | Scada/HMI intern      | [ASTOR](https://www.astor.com.pl/o-nas/o-nas/kim-jestesmy.html)          | Automatic control, HMI, SQL, problem solving        | 01.08.2019 — 01.09.2019    |
 
 
