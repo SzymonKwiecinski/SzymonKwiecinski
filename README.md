@@ -35,8 +35,9 @@ me.say_hi()
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Data engineer**     | **Accenture** |  **ETL, Python, SQL, Big data, Data visualizsation**         | **01.03.2022 - 01.03.2023** |
-| Junior Python Developer    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | software engineering, Date analyst        | 29.02.2021 — 28.02.2022    |
+| **Junior Software Engineer**     | **StepStone** |  **Streaming processing, Python, AWS, Terraform(IaC), Kafka, Event Driven Architecture**         | **01.03.2023 - actual** |
+| Data engineer     | Meta/Facebook |  Batch processing, ETL, Python, SQL, Big data, Data visualizsation         | 01.03.2022 - 01.03.2023 |
+| Junior Python Developer    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | Python, SQL        | 29.02.2021 — 28.02.2022    |
 | IT Specialist    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | maintenance of IT infrastructure        | 01.03.2020 — 28.02.2021    |
 | Scada/HMI intern      | [ASTOR](https://www.astor.com.pl/o-nas/o-nas/kim-jestesmy.html)          | Automatic control, HMI, SQL, problem solving        | 01.08.2019 — 01.09.2019    |
 
