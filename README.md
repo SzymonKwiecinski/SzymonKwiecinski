@@ -75,6 +75,7 @@ STM32 microcontroller"
 * [Linux Foundation Certified System Administrator (LFCS)](https://drive.google.com/file/d/1kfxBZ49QVTPOy_3LhpnaiRGOj9X_jk34/view?usp=sharing) ([KodeKloud](https://kodekloud.com/)) - 2022-10-02
 * [Git. Rozproszony system kontroli wersji Autor:Gajda Włodzimierz](https://lubimyczytac.pl/ksiazka/173249/git-rozproszony-system-kontroli-wersji) (book) - 2021
 >#### Other
+* [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) (book) - 2023
 * [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn) - 2021
 
 ### Visual examples :)
