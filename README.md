@@ -11,8 +11,9 @@ class PythonEngineer:
         self.name = "Szymon Kwieciński"
         self.roles =
           [
-              "Junior Python Developer",
-              "Junior Data Engineer"
+              "Python Developer",
+              "Data Engineer",
+              "Software Engineer"
           ]
         self.language_spoken = ["pl_PL", "en_UK"]
 
