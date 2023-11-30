@@ -45,7 +45,10 @@ me.say_hi()
 
 ### Education 🎓
 - **Master's degree** in Informatics at Warsaw University of Technology (2022 - 2024)
-  - [More interesting courses](https://github.com/SzymonKwiecinski/SzymonKwiecinski/blob/main/resources/university_pw.md)
+  - Projects:
+    - [Flask Backend web application](https://github.com/SzymonKwiecinski/pw_zai_project_1/tree/main)
+    - [React Frontend one-page application](https://github.com/SzymonKwiecinski/pw_zai_project_2)
+  - Diploma thesis # TODO: chooses the subject of the diploma thesis  
 - **Engineer's degree** in Automatic Control and Robotics at AGH University of Science and Technology (2016 - 2019)
   - [Diploma thesis](https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller.git): "Implementation of the HMI panel on a discovery kit containing a
 STM32 microcontroller"
