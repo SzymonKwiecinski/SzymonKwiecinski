@@ -26,7 +26,7 @@ me.say_hi()
 ```
 
 ### Skills 🛠️
-- **Languages**:Python, SQL, JINJA2, JavaSript
+- **Languages**:Python, SQL, JINJA2, JavaScript
 - **Python Lib**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest, Pydantic, confluent_kafka
 - **Infrastructure as Code**: Terraform 
 - **Data**: PostgreSQL,  SQLServer, Hive, DynamoDB
