@@ -48,8 +48,8 @@ me.say_hi()
 ### Education 🎓
 - **Master's degree** in Informatics at Warsaw University of Technology (2022 - 2024)
   - Projects:
-    - [Flask Backend web application](https://github.com/SzymonKwiecinski/pw_zai_project_1/tree/main) - 2023
-    - [React Frontend one-page application](https://github.com/SzymonKwiecinski/pw_zai_project_2) - 2023
+    - [Flask Backend web application](https://github.com/SzymonKwiecinski/pw_zai_project_1/tree/main) - 2023 TODO: merge presentation to main
+    - [React Frontend one-page application](https://github.com/SzymonKwiecinski/pw_zai_project_2) - 2023 TODO: merge presentation to main
     - [GitLab CI/CD pipeline | Terraform, AWS Lambda ](https://gitlab.com/SzymonKwiecinski/gitlab-runner-tutorial/-/blob/main/README.md?ref_type=heads) - 2023
   - Diploma thesis # TODO: chooses the subject of the diploma thesis  
 - **Engineer's degree** in Automatic Control and Robotics at AGH University of Science and Technology (2016 - 2019)
