@@ -26,11 +26,12 @@ me.say_hi()
 ```
 
 ### Skills 🛠️
-- **Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;Python,  JINJA, SQL, PRESTO
-- **Python Lib**:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest
-- **Data**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL,  SQL Server, Hive
-- **ETL tools**:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dataswarm(similar to Airflow)
-- **Other tools** &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Jupyter Notebook,  Visual Studio Code,  Azure Data Studio,  GitHub
+- **Languages**:Python, SQL, JINJA2, JavaSript
+- **Python Lib**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest, Pydantic, confluent_kafka
+- **Infrastructure as Code**: Terraform 
+- **Data**: PostgreSQL,  SQLServer, Hive, DynamoDB
+- **ETL tools**: Dataswarm(similar to Airflow)
+- **Other tools** Jupyter Notebook,  Visual Studio Code,  Azure Data Studio,  GitHub, Pycharm, Obsidian Note
 
 
 ### Work experience 👔
@@ -47,22 +48,22 @@ me.say_hi()
 ### Education 🎓
 - **Master's degree** in Informatics at Warsaw University of Technology (2022 - 2024)
   - Projects:
-    - [Flask Backend web application](https://github.com/SzymonKwiecinski/pw_zai_project_1/tree/main)
-    - [React Frontend one-page application](https://github.com/SzymonKwiecinski/pw_zai_project_2)
-    - [GitLab CI/CD pipeline | Terraform, AWS Lambda ](https://gitlab.com/SzymonKwiecinski/gitlab-runner-tutorial/-/blob/main/README.md?ref_type=heads)
+    - [Flask Backend web application](https://github.com/SzymonKwiecinski/pw_zai_project_1/tree/main) - 2023
+    - [React Frontend one-page application](https://github.com/SzymonKwiecinski/pw_zai_project_2) - 2023
+    - [GitLab CI/CD pipeline | Terraform, AWS Lambda ](https://gitlab.com/SzymonKwiecinski/gitlab-runner-tutorial/-/blob/main/README.md?ref_type=heads) - 2023
   - Diploma thesis # TODO: chooses the subject of the diploma thesis  
 - **Engineer's degree** in Automatic Control and Robotics at AGH University of Science and Technology (2016 - 2019)
   - [Diploma thesis](https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller.git): "Implementation of the HMI panel on a discovery kit containing a
-STM32 microcontroller"
+STM32 microcontroller" - 2019
 
 
 ### Projects 🐾
 * Data Science
-  * [Projects from DataCamp platform](https://github.com/SzymonKwiecinski/DataCamp-projects)
+  * [Projects from DataCamp platform](https://github.com/SzymonKwiecinski/DataCamp-projects) - 2020-2022
 * Python projects for AREX company 
-  * [Weight calculator](https://github.com/SzymonKwiecinski/Weight_calculator) (Python, GUI, unit tests, automating, sql, OOP, CI - Git Actions)
-  * [Automatic Improvement of inventory levels](https://github.com/SzymonKwiecinski/Application-for-the-automatic-improvement-of-inventory-levels) (Python, GUI, SQL Server, SQLite, OOP)
-  * [XML files exporter to GCP](https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file) (Python, GUI, SQL Server, GCP VM, OOP, XML, SSH Auth)
+  * [Weight calculator](https://github.com/SzymonKwiecinski/Weight_calculator) (Python, GUI, unit tests, automating, sql, OOP, CI - Git Actions) - 2021
+  * [Automatic Improvement of inventory levels](https://github.com/SzymonKwiecinski/Application-for-the-automatic-improvement-of-inventory-levels) (Python, GUI, SQL Server, SQLite, OOP) - 2021
+  * [XML files exporter to GCP](https://github.com/SzymonKwiecinski/KANBAN_3-Exporter_xml_file) (Python, GUI, SQL Server, GCP VM, OOP, XML, SSH Auth) - 2021
 
 
 
