@@ -69,8 +69,9 @@ STM32 microcontroller" - 2019
 
 ### Certifications && Paths && Books 📜
 >#### PYTHON
-* [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp) - 2021
+* [Web development with Flask](https://drive.google.com/file/d/15NO01pZBKpml5BcAQjgb_wGCE8ox-gRg/view?usp=sharing) - 2023
 * [Data Scientist with Python Track](https://drive.google.com/file/d/10HJOlbVyDMhfggqfDFbM0I_We_QAXW3q/view?usp=sharing) (DataCamp) - 2022
+* [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp) - 2021
 * Head First Python (book) - 2021
 >#### SQL
 * [Practical SQL](https://www.practicalsql.com/) (book) - 2022-07-05
