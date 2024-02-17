@@ -26,13 +26,9 @@ me.say_hi()
 ```
 
 ### Skills 🛠️
-- **Languages**:Python, SQL, JINJA2, JavaScript
-- **Python Lib**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest, Pydantic, confluent_kafka
-- **Infrastructure as Code**: Terraform 
-- **Data**: PostgreSQL,  SQLServer, Hive, DynamoDB
-- **ETL tools**: Dataswarm(similar to Airflow)
-- **Other tools** Jupyter Notebook,  Visual Studio Code,  Azure Data Studio,  GitHub, Pycharm, Obsidian Note
-
+- **Languages**:Python, SQL, JINJA2, JavaScript, HTML, CSS, Terraform
+- **Python Lib**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest, Pydantic, confluent_kafka, Flask ...  
+- **Data**: PostgreSQL,  SQLServer, DynamoDB, Apache Kafka, Dataswarm(similar to Airflow)
 
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
@@ -69,7 +65,7 @@ STM32 microcontroller" - 2019
 
 ### Certifications && Paths && Books 📜
 >#### PYTHON
-* [Web development with Flask](https://drive.google.com/file/d/15NO01pZBKpml5BcAQjgb_wGCE8ox-gRg/view?usp=sharing) - 2023
+* [Web development with Flask](https://drive.google.com/file/d/15NO01pZBKpml5BcAQjgb_wGCE8ox-gRg/view?usp=sharing) (Udemy) - 2023
 * [Data Scientist with Python Track](https://drive.google.com/file/d/10HJOlbVyDMhfggqfDFbM0I_We_QAXW3q/view?usp=sharing) (DataCamp) - 2022
 * [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp) - 2021
 * Head First Python (book) - 2021
