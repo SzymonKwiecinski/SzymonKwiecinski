@@ -47,7 +47,9 @@ me.say_hi()
     - [Flask Backend web application](https://github.com/SzymonKwiecinski/pw_zai_project_1/tree/main) - 2023
     - [React Frontend one-page application](https://github.com/SzymonKwiecinski/pw_zai_project_2) - 2023
     - [GitLab CI/CD pipeline | Terraform, AWS Lambda ](https://gitlab.com/SzymonKwiecinski/gitlab-runner-tutorial/-/blob/main/README.md?ref_type=heads) - 2023
-  - Diploma thesis # TODO: chooses the subject of the diploma thesis  
+    - [AMPL | Operations Research | Linear programming]  
+      - [Project 1](resources/Projekt%20numer%201%20Szymon%20Kwiecinski.ipynb) | [Project 2](resources/Projekt%20numer%202%20Szymon%20Kwiecinski.ipynb)   [PL-ONLY]
+  - Diploma thesis: Decision support systems using language models   
 - **Engineer's degree** in Automatic Control and Robotics at AGH University of Science and Technology (2016 - 2019)
   - [Diploma thesis](https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller.git): "Implementation of the HMI panel on a discovery kit containing a
 STM32 microcontroller" - 2019
