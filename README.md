@@ -33,7 +33,8 @@ me.say_hi()
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Junior Software Engineer**     | **StepStone** |  **Streaming processing, Python, AWS, Terraform(IaC), Kafka, Event Driven Architecture**         | **01.03.2023 - actual** |
+| **Software Engineer**     | **StepStone** |  **Streaming processing, Python, AWS, Terraform(IaC), Kafka, Event Driven Architecture**         | **01.04.2024 - actual** |
+| Junior Software Engineer     | StepStone |  Streaming processing, Python, AWS, Terraform(IaC), Kafka, Event Driven Architecture         | 01.03.2023 - 01.03.2024 |
 | Data engineer     | Meta/Facebook |  Batch processing, ETL, Python, SQL, Big data, Data visualizsation         | 01.03.2022 - 01.03.2023 |
 | Junior Python Developer    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | Python, SQL        | 29.02.2021 — 28.02.2022    |
 | IT Specialist    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | maintenance of IT infrastructure        | 01.03.2020 — 28.02.2021    |
@@ -81,6 +82,7 @@ STM32 microcontroller" - 2019
 * [Linux Foundation Certified System Administrator (LFCS)](https://drive.google.com/file/d/1kfxBZ49QVTPOy_3LhpnaiRGOj9X_jk34/view?usp=sharing) ([KodeKloud](https://kodekloud.com/)) - 2022-10-02
 * [Git. Rozproszony system kontroli wersji Autor:Gajda Włodzimierz](https://lubimyczytac.pl/ksiazka/173249/git-rozproszony-system-kontroli-wersji) (book) - 2021
 >#### Other
+* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) (book) - 2024
 * [Building Microservices, 2nd Edition](https://samnewman.io/books/building_microservices_2nd_edition/) (book) - 2024  
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) (book) - 2023
 * [VBA in Excel](https://drive.google.com/file/d/15jlhFydi9OGU_vjA1Q7dO8-Mlujy_oUL/view?usp=sharing) (LinkedIn) - 2021
