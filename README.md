@@ -2,7 +2,6 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
 ```python
 
 class PythonEngineer:
@@ -27,6 +26,8 @@ me.say_hi()
 
 ### Work experience 👔
 [https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/)
 
 ### Skills 🛠️
 - **Languages**:Python, SQL, JINJA2, JavaScript, HTML, CSS, Terraform
