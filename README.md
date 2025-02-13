@@ -31,7 +31,7 @@ me.say_hi()
 
 
 ### Education 🎓
-- **Master's degree** in Informatics at Warsaw University of Technology (2022 - 2024)
+- **Master's degree** in Informatics at Warsaw University of Technology (2022 - 2025)
   - Projects:
     - [Flask Backend web application](https://github.com/SzymonKwiecinski/pw_zai_project_1/tree/main) - 2023
     - [React Frontend one-page application](https://github.com/SzymonKwiecinski/pw_zai_project_2) - 2023
