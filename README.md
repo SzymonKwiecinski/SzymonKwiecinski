@@ -1,7 +1,6 @@
 # Hello there 👋
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/)
 
 ```python
 
@@ -45,10 +44,11 @@ me.say_hi()
     - [GitLab CI/CD pipeline | Terraform, AWS Lambda ](https://gitlab.com/SzymonKwiecinski/gitlab-runner-tutorial/-/blob/main/README.md?ref_type=heads) - 2023
     - [AMPL | Operations Research | Linear programming]  
       - [Project 1](resources/Projekt%20numer%201%20Szymon%20Kwiecinski.ipynb) | [Project 2](resources/Projekt%20numer%202%20Szymon%20Kwiecinski.ipynb)   [PL-ONLY]
-  - Diploma thesis: Decision support systems using language models   
+  - [Diploma thesis](https://drive.google.com/file/d/1qn9P9S-ZwDkEOT3bVCE3WNiRZ4u4u_EY/view?usp=sharing): "Zastosowanie modeli językowych GPT-4 do modelowania i rozwiązywania problemów optymalizacyjnych w systemach wspomagania decyzji"     
 - **Engineer's degree** in Automatic Control and Robotics at AGH University of Science and Technology (2016 - 2019)
   - [Diploma thesis](https://github.com/SzymonKwiecinski/Implementation-of-the-HMI-panel-on-a-discovery-kit-containing-a-STM32-microcontroller.git): "Implementation of the HMI panel on a discovery kit containing a
 STM32 microcontroller" - 2019
+
 
 
 ### Projects 🐾
