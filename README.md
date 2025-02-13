@@ -24,12 +24,6 @@ me = PythonEngineer()
 me.say_hi()
 ```
 
-
-### Skills 🛠️
-- **Languages**:Python, SQL, JINJA2, JavaScript, HTML, CSS, Terraform
-- **Python Lib**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest, Pydantic, confluent_kafka, Flask ...  
-- **Data**: PostgreSQL,  SQLServer, DynamoDB, Apache Kafka, Dataswarm(similar to Airflow)
-
 ### Work experience 👔
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/)
