@@ -25,6 +25,9 @@ me = PythonEngineer()
 me.say_hi()
 ```
 
+### Work experience 👔
+[https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ### Skills 🛠️
 - **Languages**:Python, SQL, JINJA2, JavaScript, HTML, CSS, Terraform
 - **Python Lib**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, PyQt6, Tkinter, Pytest, Pydantic, confluent_kafka, Flask ...  
