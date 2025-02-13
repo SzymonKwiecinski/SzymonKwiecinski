@@ -1,6 +1,7 @@
 # Hello there 👋
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/)
 
 ```python
 
@@ -24,10 +25,6 @@ me = PythonEngineer()
 me.say_hi()
 ```
 
-### Work experience 👔
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/)
-
 
 ### Skills 🛠️
 - **Languages**:Python, SQL, JINJA2, JavaScript, HTML, CSS, Terraform
@@ -35,14 +32,8 @@ me.say_hi()
 - **Data**: PostgreSQL,  SQLServer, DynamoDB, Apache Kafka, Dataswarm(similar to Airflow)
 
 ### Work experience 👔
-| Job Position          | Company        | Field                           | Work Period                |
-| --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Software Engineer**     | **StepStone** |  **Streaming processing, Python, AWS, Terraform(IaC), Kafka, Event Driven Architecture**         | **01.04.2024 - actual** |
-| Junior Software Engineer     | StepStone |  Streaming processing, Python, AWS, Terraform(IaC), Kafka, Event Driven Architecture         | 01.03.2023 - 01.03.2024 |
-| Data engineer     | Meta/Facebook |  Batch processing, ETL, Python, SQL, Big data, Data visualizsation         | 01.03.2022 - 01.03.2023 |
-| Junior Python Developer    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | Python, SQL        | 29.02.2021 — 28.02.2022    |
-| IT Specialist    | [AREX Kielce](https://arex-sruby.pl/o-firmie/)    | maintenance of IT infrastructure        | 01.03.2020 — 28.02.2021    |
-| Scada/HMI intern      | [ASTOR](https://www.astor.com.pl/o-nas/o-nas/kim-jestesmy.html)          | Automatic control, HMI, SQL, problem solving        | 01.08.2019 — 01.09.2019    |
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/)
 
 
 
