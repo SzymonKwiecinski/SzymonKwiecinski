@@ -25,6 +25,8 @@ me.say_hi()
 ```
 
 ### Work experience 👔
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 [https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/szymon-kwieci%C5%84ski-22b126181/)
