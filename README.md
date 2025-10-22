@@ -58,6 +58,7 @@ me.say_hi()
 
 ### Certifications && Paths && Books 📜
 >#### PYTHON
+* [Architecture Patterns with Python](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/) (Book) - 2025
 * [Web development with Flask](https://drive.google.com/file/d/15NO01pZBKpml5BcAQjgb_wGCE8ox-gRg/view?usp=sharing) (Udemy) - 2023
 * [Data Scientist with Python Track](https://drive.google.com/file/d/10HJOlbVyDMhfggqfDFbM0I_We_QAXW3q/view?usp=sharing) (DataCamp) - 2022
 * [Python Programmer](https://drive.google.com/file/d/1pUdDoXXm29tmWXHjlw2gBn_JXn9qD-uD/view?usp=sharing) (DataCamp) - 2021
@@ -72,6 +73,7 @@ me.say_hi()
 * [Linux Foundation Certified System Administrator (LFCS)](https://drive.google.com/file/d/1kfxBZ49QVTPOy_3LhpnaiRGOj9X_jk34/view?usp=sharing) ([KodeKloud](https://kodekloud.com/)) - 2022-10-02
 * [Git. Rozproszony system kontroli wersji Autor:Gajda Włodzimierz](https://lubimyczytac.pl/ksiazka/173249/git-rozproszony-system-kontroli-wersji) (book) - 2021
 >#### Other
+* [Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/) (Book) - 2025
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) (book) - 2024
 * [Building Microservices, 2nd Edition](https://samnewman.io/books/building_microservices_2nd_edition/) (book) - 2024  
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) (book) - 2023
